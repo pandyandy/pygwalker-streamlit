@@ -1,0 +1,4 @@
+streamlit
+git+https://github.com/keboola/sapi-python-client.git
+pygwalker
+pandas
